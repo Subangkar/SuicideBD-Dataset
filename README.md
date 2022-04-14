@@ -16,6 +16,7 @@ Download the relevant files from the dataset and use the following notebooks for
 Python version 3.7+
 Numpy version 1.21.5+
 Pandas version 1.3+
+Matplotlib
 ```
 
 More on **wordcloud** at this GitHub Repo: https://github.com/XAbirHasan/WordCloud
